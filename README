@@ -1,3 +1,6 @@
+0. This is not official author's repository. It's a fork.
+	A few minor changes is planned to implement for one specific task.
+
 1. OVERVIEW
     fbv (FrameBuffer Viewer) is a simple program to view pictures on
   a linux framebuffer device. In 2000, when fbv was created, there
